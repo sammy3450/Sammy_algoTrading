@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Installation Guide for TWS API Library**
 
 This guide provides step-by-step instructions for setting up the TWS API library, including creating virtual environments using both Anaconda and standard Python, building distributions, and testing the installation.
@@ -171,3 +172,6 @@ Implementation notes:
     + other messages are more complex, depend on version number heavily or need field massaging. In this case the incoming message id is mapped to a processing function that will do all that and call the Wrapper method at the end. For example:
 
     IN.TICK_PRICE: HandleInfo(proc=processTickPriceMsg), 
+=======
+# Sammy_algoTrading
+>>>>>>> 5c2cd8debe0d8c48c363d74a23a797ecd1f1586e

@@ -1,1 +1,1 @@
-All files are inside __pycache__
+All files are inside PythonProject/__pycache__
